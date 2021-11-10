@@ -1,0 +1,14 @@
+{
+  "trailingComma": "es5",
+  "semi": false,
+  "singleQuote": true,
+  "useTabs": false,
+  "quoteProps": "consistent",
+  "bracketSpacing": true,
+  "arrowParens": "always",
+  "printWidth": 150,
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+}
+  
+}
